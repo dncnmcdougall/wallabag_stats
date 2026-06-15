@@ -19,6 +19,7 @@ This does not do polite things, like caching results for future runs.
 Thus it should not be run very frequently as it will be hard ont he server.
 
 # Potential imporvments:
-[ ] Give articles read per period as a graph. (A bar chart of weeks, months and years)
-[ ] Cache the resutls so that they are not so hard on the site.
-[ ] Do some proper security for accepting password and secrets.
+ - [ ] Give articles read per period as a graph. (A bar chart of weeks, months and years)
+ - [ ] Write stats to html pages that can be displayed.
+ - [ ] Cache the resutls so that they are not so hard on the site.
+ - [ ] Do some proper security for accepting password and secrets.
