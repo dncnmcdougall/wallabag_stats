@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2026 Duncan McDougall
+#
+# SPDX-License-Identifier: Apache-2.0
+
 [project]
 name = "wallabag-stats"
 version = "0.1.0"
@@ -12,6 +16,8 @@ dependencies = [
     "python-dateutil>=2.9.0.post0",
     "requests>=2.34.2",
 ]
+license = "Apache-2.0"
+license-files = ["LICENSES/*"]
 
 [project.scripts]
 main = "wallabag_stats:main"

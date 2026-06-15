@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2026 Duncan McDougall
+#
+# SPDX-License-Identifier: Apache-2.0
+
 from pathlib import Path
 import requests
 from dateutil import parser

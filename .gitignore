@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2026 Duncan McDougall
+#
+# SPDX-License-Identifier: Apache-2.0
+
 # Python-generated files
 __pycache__/
 *.py[oc]
@@ -8,3 +12,5 @@ wheels/
 
 # Virtual environments
 .venv
+
+config.toml
