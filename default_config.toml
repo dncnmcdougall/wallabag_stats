@@ -1,0 +1,10 @@
+# SPDX-FileCopyrightText: 2026 Duncan McDougall
+#
+# SPDX-License-Identifier: Apache-2.0
+
+[wallabag]
+WALLABAG_BASE = "https://app.wallabag.it"  
+CLIENT_ID = ""
+CLIENT_SECRET = ""
+USERNAME = ""
+ASSUME_MIN_PER_UNFETCHED = 10 
